@@ -1,0 +1,15 @@
+Agent [id=1, qualif=1, workedTime=0, waitingTime=0, downGraded=false, startingTime=387, endTime=499 , breakT=false]->26
+Agent [id=2, qualif=1, workedTime=0, waitingTime=0, downGraded=false, startingTime=3, endTime=190 , breakT=false]->20
+Agent [id=3, qualif=1, workedTime=0, waitingTime=0, downGraded=false, startingTime=287, endTime=584 , breakT=false]->28
+Agent [id=4, qualif=3, workedTime=0, waitingTime=0, downGraded=true, startingTime=352, endTime=602 , breakT=false]->37
+Agent [id=5, qualif=2, workedTime=0, waitingTime=0, downGraded=true, startingTime=0, endTime=325 , breakT=false]->42
+Agent [id=6, qualif=2, workedTime=0, waitingTime=0, downGraded=true, startingTime=334, endTime=755 , breakT=true]->34
+Agent [id=7, qualif=3, workedTime=0, waitingTime=0, downGraded=false, startingTime=6, endTime=212 , breakT=false]->32
+Agent [id=9, qualif=3, workedTime=0, waitingTime=0, downGraded=true, startingTime=403, endTime=530 , breakT=false]->14
+MERGE: Agent [id=5, qualif=2, workedTime=0, waitingTime=0, downGraded=true, startingTime=0, endTime=325 , breakT=false]<->Agent [id=6, qualif=2, workedTime=0, waitingTime=0, downGraded=true, startingTime=334, endTime=755 , breakT=true]
+Agent [id=5, qualif=2, workedTime=0, waitingTime=0, downGraded=true, startingTime=0, endTime=755 , breakT=false]
+MERGE: Agent [id=2, qualif=1, workedTime=0, waitingTime=0, downGraded=false, startingTime=3, endTime=190 , breakT=false]<->Agent [id=3, qualif=1, workedTime=0, waitingTime=0, downGraded=false, startingTime=287, endTime=584 , breakT=false]
+Agent [id=2, qualif=1, workedTime=0, waitingTime=0, downGraded=false, startingTime=3, endTime=584 , breakT=false]
+MERGE: Agent [id=7, qualif=3, workedTime=0, waitingTime=0, downGraded=false, startingTime=6, endTime=212 , breakT=false]<->Agent [id=4, qualif=3, workedTime=0, waitingTime=0, downGraded=true, startingTime=352, endTime=602 , breakT=false]
+Agent [id=7, qualif=3, workedTime=0, waitingTime=0, downGraded=false, startingTime=6, endTime=602 , breakT=false]
+Carsharing vehicle reduction from 8 -> 5( 0.625)

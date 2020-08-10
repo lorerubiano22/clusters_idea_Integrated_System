@@ -1,0 +1,116 @@
+outputs\A1_1074999_p0_outputs.txt738.0.txt
+Sat Jun 18 12:08:38 CEST 2016
+SERVICES BY NURSE
+==========================================
+Nurse:> Agent [id=1, qualif=1, workedTime=112, waitingTime=0, downGraded=false, startingTime=387, endTime=499 , breakT=false] OBJ: 68
+	Service [nurse=(ID=1, QUALLIF=1, DOWNGRD=false), vehicle=V(WALK), customer=(id=17, RQ=1, ST=360, ET=480, RT=21), Time=419, cost=32, action=DELIVERY, BREAK=false]
+	Service [nurse=(ID=1, QUALLIF=1, DOWNGRD=false), vehicle=V(WALK), customer=(id=4, RQ=1, ST=360, ET=480, RT=23), Time=454, cost=14, action=DELIVERY, BREAK=false]
+	Service [nurse=(ID=1, QUALLIF=1, DOWNGRD=false), vehicle=V(WALK), customer=(id=0, RQ=0, ST=0, ET=0, RT=0), Time=499, cost=22, action=DELIVERY, BREAK=false]
+
+Nurse:> Agent [id=2, qualif=1, workedTime=187, waitingTime=0, downGraded=false, startingTime=3, endTime=190 , breakT=false] OBJ: 67
+	Service [nurse=(ID=2, QUALLIF=1, DOWNGRD=false), vehicle=V(WALK), customer=(id=2, RQ=1, ST=0, ET=120, RT=51), Time=20, cost=17, action=DELIVERY, BREAK=false]
+	Service [nurse=(ID=2, QUALLIF=1, DOWNGRD=false), vehicle=V(WALK), customer=(id=7, RQ=1, ST=0, ET=120, RT=69), Time=100, cost=29, action=DELIVERY, BREAK=false]
+	Service [nurse=(ID=2, QUALLIF=1, DOWNGRD=false), vehicle=V(WALK), customer=(id=0, RQ=0, ST=0, ET=0, RT=0), Time=190, cost=21, action=DELIVERY, BREAK=false]
+
+Nurse:> Agent [id=3, qualif=1, workedTime=297, waitingTime=0, downGraded=false, startingTime=287, endTime=584 , breakT=false] OBJ: 110
+	Service [nurse=(ID=3, QUALLIF=1, DOWNGRD=false), vehicle=V(WALK), customer=(id=24, RQ=1, ST=240, ET=360, RT=43), Time=303, cost=16, action=DELIVERY, BREAK=false]
+	Service [nurse=(ID=3, QUALLIF=1, DOWNGRD=false), vehicle=V(WALK), customer=(id=12, RQ=1, ST=360, ET=480, RT=59), Time=381, cost=35, action=DELIVERY, BREAK=false]
+	Service [nurse=(ID=3, QUALLIF=1, DOWNGRD=false), vehicle=V(WALK), customer=(id=26, RQ=1, ST=360, ET=480, RT=57), Time=452, cost=12, action=DELIVERY, BREAK=false]
+	Service [nurse=(ID=3, QUALLIF=1, DOWNGRD=false), vehicle=V(WALK), customer=(id=21, RQ=1, ST=480, ET=600, RT=28), Time=532, cost=23, action=DELIVERY, BREAK=false]
+	Service [nurse=(ID=3, QUALLIF=1, DOWNGRD=false), vehicle=V(WALK), customer=(id=0, RQ=0, ST=0, ET=0, RT=0), Time=584, cost=24, action=DELIVERY, BREAK=false]
+
+Nurse:> Agent [id=4, qualif=3, workedTime=250, waitingTime=0, downGraded=true, startingTime=352, endTime=602 , breakT=false] OBJ: 101
+	Service [nurse=(ID=4, QUALLIF=3, DOWNGRD=true), vehicle=V(WALK), customer=(id=27, RQ=2, ST=360, ET=480, RT=39), Time=373, cost=21, action=DELIVERY, BREAK=false]
+	Service [nurse=(ID=4, QUALLIF=3, DOWNGRD=true), vehicle=V(WALK), customer=(id=16, RQ=3, ST=360, ET=480, RT=22), Time=414, cost=2, action=DELIVERY, BREAK=false]
+	Service [nurse=(ID=4, QUALLIF=3, DOWNGRD=true), vehicle=V(WALK), customer=(id=13, RQ=3, ST=360, ET=480, RT=41), Time=443, cost=7, action=DELIVERY, BREAK=false]
+	Service [nurse=(ID=4, QUALLIF=3, DOWNGRD=true), vehicle=V(WALK), customer=(id=25, RQ=3, ST=480, ET=600, RT=6), Time=499, cost=15, action=DELIVERY, BREAK=false]
+	Service [nurse=(ID=4, QUALLIF=3, DOWNGRD=true), vehicle=V(WALK), customer=(id=20, RQ=3, ST=480, ET=600, RT=41), Time=544, cost=39, action=DELIVERY, BREAK=false]
+	Service [nurse=(ID=4, QUALLIF=3, DOWNGRD=true), vehicle=V(WALK), customer=(id=0, RQ=0, ST=0, ET=0, RT=0), Time=602, cost=17, action=DELIVERY, BREAK=false]
+
+Nurse:> Agent [id=5, qualif=2, workedTime=325, waitingTime=0, downGraded=true, startingTime=0, endTime=325 , breakT=false] OBJ: 133
+	Service [nurse=(ID=5, QUALLIF=2, DOWNGRD=true), vehicle=V(WALK), customer=(id=5, RQ=2, ST=0, ET=120, RT=40), Time=12, cost=12, action=DELIVERY, BREAK=false]
+	Service [nurse=(ID=5, QUALLIF=2, DOWNGRD=true), vehicle=V(WALK), customer=(id=14, RQ=1, ST=0, ET=120, RT=39), Time=78, cost=26, action=DELIVERY, BREAK=false]
+	Service [nurse=(ID=5, QUALLIF=2, DOWNGRD=true), vehicle=V(WALK), customer=(id=9, RQ=2, ST=120, ET=240, RT=16), Time=129, cost=12, action=DELIVERY, BREAK=false]
+	Service [nurse=(ID=5, QUALLIF=2, DOWNGRD=true), vehicle=V(WALK), customer=(id=19, RQ=2, ST=120, ET=240, RT=73), Time=164, cost=19, action=DELIVERY, BREAK=false]
+	Service [nurse=(ID=5, QUALLIF=2, DOWNGRD=true), vehicle=V(WALK), customer=(id=6, RQ=2, ST=240, ET=360, RT=24), Time=262, cost=25, action=DELIVERY, BREAK=false]
+	Service [nurse=(ID=5, QUALLIF=2, DOWNGRD=true), vehicle=V(WALK), customer=(id=0, RQ=0, ST=0, ET=0, RT=0), Time=325, cost=39, action=DELIVERY, BREAK=false]
+
+Nurse:> Agent [id=6, qualif=2, workedTime=391, waitingTime=0, downGraded=true, startingTime=334, endTime=755 , breakT=true] OBJ: 121
+	Service [nurse=(ID=6, QUALLIF=2, DOWNGRD=true), vehicle=V(WALK), customer=(id=23, RQ=2, ST=360, ET=480, RT=67), Time=372, cost=38, action=DELIVERY, BREAK=false]
+	Service [nurse=(ID=6, QUALLIF=2, DOWNGRD=true), vehicle=V(WALK), customer=(id=18, RQ=2, ST=360, ET=480, RT=44), Time=446, cost=7, action=DELIVERY, BREAK=false]
+	Service [nurse=(ID=6, QUALLIF=2, DOWNGRD=true), vehicle=V(WALK), customer=(id=11, RQ=2, ST=480, ET=600, RT=61), Time=494, cost=4, action=DELIVERY, BREAK=false]
+	Service [nurse=(ID=6, QUALLIF=2, DOWNGRD=true), vehicle=V(WALK), customer=(id=22, RQ=2, ST=480, ET=600, RT=51), Time=564, cost=9, action=DELIVERY, BREAK=false]
+	Service [nurse=(ID=6, QUALLIF=2, DOWNGRD=true), vehicle=V(UNASSIGNED), customer=(id=10, RQ=1, ST=600, ET=720, RT=47), Time=638, cost=23, action=BREAK, BREAK=true]
+	Service [nurse=(ID=6, QUALLIF=2, DOWNGRD=true), vehicle=V(WALK), customer=(id=10, RQ=1, ST=600, ET=720, RT=47), Time=668, cost=0, action=DELIVERY, BREAK=false]
+	Service [nurse=(ID=6, QUALLIF=2, DOWNGRD=true), vehicle=V(WALK), customer=(id=0, RQ=0, ST=0, ET=0, RT=0), Time=755, cost=40, action=DELIVERY, BREAK=false]
+
+Nurse:> Agent [id=7, qualif=3, workedTime=206, waitingTime=0, downGraded=false, startingTime=6, endTime=212 , breakT=false] OBJ: 89
+	Service [nurse=(ID=7, QUALLIF=3, DOWNGRD=false), vehicle=V(WALK), customer=(id=28, RQ=3, ST=0, ET=120, RT=13), Time=18, cost=12, action=DELIVERY, BREAK=false]
+	Service [nurse=(ID=7, QUALLIF=3, DOWNGRD=false), vehicle=V(WALK), customer=(id=1, RQ=3, ST=0, ET=120, RT=22), Time=57, cost=26, action=DELIVERY, BREAK=false]
+	Service [nurse=(ID=7, QUALLIF=3, DOWNGRD=false), vehicle=V(WALK), customer=(id=30, RQ=3, ST=0, ET=120, RT=28), Time=88, cost=9, action=DELIVERY, BREAK=false]
+	Service [nurse=(ID=7, QUALLIF=3, DOWNGRD=false), vehicle=V(WALK), customer=(id=3, RQ=3, ST=120, ET=240, RT=45), Time=120, cost=4, action=DELIVERY, BREAK=false]
+	Service [nurse=(ID=7, QUALLIF=3, DOWNGRD=false), vehicle=V(WALK), customer=(id=15, RQ=3, ST=120, ET=240, RT=9), Time=188, cost=23, action=DELIVERY, BREAK=false]
+	Service [nurse=(ID=7, QUALLIF=3, DOWNGRD=false), vehicle=V(WALK), customer=(id=0, RQ=0, ST=0, ET=0, RT=0), Time=212, cost=15, action=DELIVERY, BREAK=false]
+
+Nurse:> Agent [id=9, qualif=3, workedTime=127, waitingTime=0, downGraded=true, startingTime=403, endTime=530 , breakT=false] OBJ: 49
+	Service [nurse=(ID=9, QUALLIF=3, DOWNGRD=true), vehicle=V(WALK), customer=(id=29, RQ=3, ST=360, ET=480, RT=35), Time=408, cost=5, action=DELIVERY, BREAK=false]
+	Service [nurse=(ID=9, QUALLIF=3, DOWNGRD=true), vehicle=V(WALK), customer=(id=8, RQ=2, ST=360, ET=480, RT=43), Time=466, cost=23, action=DELIVERY, BREAK=false]
+	Service [nurse=(ID=9, QUALLIF=3, DOWNGRD=true), vehicle=V(WALK), customer=(id=0, RQ=0, ST=0, ET=0, RT=0), Time=530, cost=21, action=DELIVERY, BREAK=false]
+
+
+
+SERVICES BY VEHICLE
+==========================================
+Vehicle:> V(WALK)(OBJ: 0; W: 0)
+	Service [nurse=(ID=5, QUALLIF=2, DOWNGRD=true), vehicle=V(WALK), customer=(id=5, RQ=2, ST=0, ET=120, RT=40), Time=12, cost=12, action=DELIVERY, BREAK=false]
+	Service [nurse=(ID=5, QUALLIF=2, DOWNGRD=true), vehicle=V(WALK), customer=(id=14, RQ=1, ST=0, ET=120, RT=39), Time=78, cost=26, action=DELIVERY, BREAK=false]
+	Service [nurse=(ID=5, QUALLIF=2, DOWNGRD=true), vehicle=V(WALK), customer=(id=9, RQ=2, ST=120, ET=240, RT=16), Time=129, cost=12, action=DELIVERY, BREAK=false]
+	Service [nurse=(ID=5, QUALLIF=2, DOWNGRD=true), vehicle=V(WALK), customer=(id=19, RQ=2, ST=120, ET=240, RT=73), Time=164, cost=19, action=DELIVERY, BREAK=false]
+	Service [nurse=(ID=5, QUALLIF=2, DOWNGRD=true), vehicle=V(WALK), customer=(id=6, RQ=2, ST=240, ET=360, RT=24), Time=262, cost=25, action=DELIVERY, BREAK=false]
+	Service [nurse=(ID=5, QUALLIF=2, DOWNGRD=true), vehicle=V(WALK), customer=(id=0, RQ=0, ST=0, ET=0, RT=0), Time=325, cost=39, action=DELIVERY, BREAK=false]
+	Service [nurse=(ID=2, QUALLIF=1, DOWNGRD=false), vehicle=V(WALK), customer=(id=2, RQ=1, ST=0, ET=120, RT=51), Time=20, cost=17, action=DELIVERY, BREAK=false]
+	Service [nurse=(ID=2, QUALLIF=1, DOWNGRD=false), vehicle=V(WALK), customer=(id=7, RQ=1, ST=0, ET=120, RT=69), Time=100, cost=29, action=DELIVERY, BREAK=false]
+	Service [nurse=(ID=2, QUALLIF=1, DOWNGRD=false), vehicle=V(WALK), customer=(id=0, RQ=0, ST=0, ET=0, RT=0), Time=190, cost=21, action=DELIVERY, BREAK=false]
+	Service [nurse=(ID=7, QUALLIF=3, DOWNGRD=false), vehicle=V(WALK), customer=(id=28, RQ=3, ST=0, ET=120, RT=13), Time=18, cost=12, action=DELIVERY, BREAK=false]
+	Service [nurse=(ID=7, QUALLIF=3, DOWNGRD=false), vehicle=V(WALK), customer=(id=1, RQ=3, ST=0, ET=120, RT=22), Time=57, cost=26, action=DELIVERY, BREAK=false]
+	Service [nurse=(ID=7, QUALLIF=3, DOWNGRD=false), vehicle=V(WALK), customer=(id=30, RQ=3, ST=0, ET=120, RT=28), Time=88, cost=9, action=DELIVERY, BREAK=false]
+	Service [nurse=(ID=7, QUALLIF=3, DOWNGRD=false), vehicle=V(WALK), customer=(id=3, RQ=3, ST=120, ET=240, RT=45), Time=120, cost=4, action=DELIVERY, BREAK=false]
+	Service [nurse=(ID=7, QUALLIF=3, DOWNGRD=false), vehicle=V(WALK), customer=(id=15, RQ=3, ST=120, ET=240, RT=9), Time=188, cost=23, action=DELIVERY, BREAK=false]
+	Service [nurse=(ID=7, QUALLIF=3, DOWNGRD=false), vehicle=V(WALK), customer=(id=0, RQ=0, ST=0, ET=0, RT=0), Time=212, cost=15, action=DELIVERY, BREAK=false]
+	Service [nurse=(ID=3, QUALLIF=1, DOWNGRD=false), vehicle=V(WALK), customer=(id=24, RQ=1, ST=240, ET=360, RT=43), Time=303, cost=16, action=DELIVERY, BREAK=false]
+	Service [nurse=(ID=3, QUALLIF=1, DOWNGRD=false), vehicle=V(WALK), customer=(id=12, RQ=1, ST=360, ET=480, RT=59), Time=381, cost=35, action=DELIVERY, BREAK=false]
+	Service [nurse=(ID=3, QUALLIF=1, DOWNGRD=false), vehicle=V(WALK), customer=(id=26, RQ=1, ST=360, ET=480, RT=57), Time=452, cost=12, action=DELIVERY, BREAK=false]
+	Service [nurse=(ID=3, QUALLIF=1, DOWNGRD=false), vehicle=V(WALK), customer=(id=21, RQ=1, ST=480, ET=600, RT=28), Time=532, cost=23, action=DELIVERY, BREAK=false]
+	Service [nurse=(ID=3, QUALLIF=1, DOWNGRD=false), vehicle=V(WALK), customer=(id=0, RQ=0, ST=0, ET=0, RT=0), Time=584, cost=24, action=DELIVERY, BREAK=false]
+	Service [nurse=(ID=6, QUALLIF=2, DOWNGRD=true), vehicle=V(WALK), customer=(id=23, RQ=2, ST=360, ET=480, RT=67), Time=372, cost=38, action=DELIVERY, BREAK=false]
+	Service [nurse=(ID=6, QUALLIF=2, DOWNGRD=true), vehicle=V(WALK), customer=(id=18, RQ=2, ST=360, ET=480, RT=44), Time=446, cost=7, action=DELIVERY, BREAK=false]
+	Service [nurse=(ID=6, QUALLIF=2, DOWNGRD=true), vehicle=V(WALK), customer=(id=11, RQ=2, ST=480, ET=600, RT=61), Time=494, cost=4, action=DELIVERY, BREAK=false]
+	Service [nurse=(ID=6, QUALLIF=2, DOWNGRD=true), vehicle=V(WALK), customer=(id=22, RQ=2, ST=480, ET=600, RT=51), Time=564, cost=9, action=DELIVERY, BREAK=false]
+	Service [nurse=(ID=6, QUALLIF=2, DOWNGRD=true), vehicle=V(WALK), customer=(id=10, RQ=1, ST=600, ET=720, RT=47), Time=668, cost=0, action=DELIVERY, BREAK=false]
+	Service [nurse=(ID=6, QUALLIF=2, DOWNGRD=true), vehicle=V(WALK), customer=(id=0, RQ=0, ST=0, ET=0, RT=0), Time=755, cost=40, action=DELIVERY, BREAK=false]
+	Service [nurse=(ID=4, QUALLIF=3, DOWNGRD=true), vehicle=V(WALK), customer=(id=27, RQ=2, ST=360, ET=480, RT=39), Time=373, cost=21, action=DELIVERY, BREAK=false]
+	Service [nurse=(ID=4, QUALLIF=3, DOWNGRD=true), vehicle=V(WALK), customer=(id=16, RQ=3, ST=360, ET=480, RT=22), Time=414, cost=2, action=DELIVERY, BREAK=false]
+	Service [nurse=(ID=4, QUALLIF=3, DOWNGRD=true), vehicle=V(WALK), customer=(id=13, RQ=3, ST=360, ET=480, RT=41), Time=443, cost=7, action=DELIVERY, BREAK=false]
+	Service [nurse=(ID=4, QUALLIF=3, DOWNGRD=true), vehicle=V(WALK), customer=(id=25, RQ=3, ST=480, ET=600, RT=6), Time=499, cost=15, action=DELIVERY, BREAK=false]
+	Service [nurse=(ID=4, QUALLIF=3, DOWNGRD=true), vehicle=V(WALK), customer=(id=20, RQ=3, ST=480, ET=600, RT=41), Time=544, cost=39, action=DELIVERY, BREAK=false]
+	Service [nurse=(ID=4, QUALLIF=3, DOWNGRD=true), vehicle=V(WALK), customer=(id=0, RQ=0, ST=0, ET=0, RT=0), Time=602, cost=17, action=DELIVERY, BREAK=false]
+	Service [nurse=(ID=1, QUALLIF=1, DOWNGRD=false), vehicle=V(WALK), customer=(id=17, RQ=1, ST=360, ET=480, RT=21), Time=419, cost=32, action=DELIVERY, BREAK=false]
+	Service [nurse=(ID=1, QUALLIF=1, DOWNGRD=false), vehicle=V(WALK), customer=(id=4, RQ=1, ST=360, ET=480, RT=23), Time=454, cost=14, action=DELIVERY, BREAK=false]
+	Service [nurse=(ID=1, QUALLIF=1, DOWNGRD=false), vehicle=V(WALK), customer=(id=0, RQ=0, ST=0, ET=0, RT=0), Time=499, cost=22, action=DELIVERY, BREAK=false]
+	Service [nurse=(ID=9, QUALLIF=3, DOWNGRD=true), vehicle=V(WALK), customer=(id=29, RQ=3, ST=360, ET=480, RT=35), Time=408, cost=5, action=DELIVERY, BREAK=false]
+	Service [nurse=(ID=9, QUALLIF=3, DOWNGRD=true), vehicle=V(WALK), customer=(id=8, RQ=2, ST=360, ET=480, RT=43), Time=466, cost=23, action=DELIVERY, BREAK=false]
+	Service [nurse=(ID=9, QUALLIF=3, DOWNGRD=true), vehicle=V(WALK), customer=(id=0, RQ=0, ST=0, ET=0, RT=0), Time=530, cost=21, action=DELIVERY, BREAK=false]
+
+
+
+SUMMARY
+Nurse 1: 68
+Nurse 2: 67
+Nurse 3: 110
+Nurse 4: 101
+Nurse 5: 133
+Nurse 6: 121
+Nurse 7: 89
+Nurse 9: 49
+
+
